@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 168b47f960eb346f0a3f8608025b9bd1
+timeCreated: 1491412822
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BarrelSound: {fileID: 8300000, guid: fb664f635d0c14e3292fe396140f734c, type: 3}
+  - sound: {instanceID: 0}
+  - Trigger: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
